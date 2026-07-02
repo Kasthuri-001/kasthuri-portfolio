@@ -101,7 +101,7 @@ This site is deployed via [GitHub Pages / Vercel / Netlify — update as applica
 ## Author
 
 **Kasthuri**
-B.Tech Information Technology, VSB College of Engineering Technical Campus
+
 GitHub: [Kasthuri-001](https://github.com/Kasthuri-001)
 
 ## License
